@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252731141815",
+    "project_id": "projeto3bimestre-64dd5",
+    "storage_bucket": "projeto3bimestre-64dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252731141815:android:a23b651f3481844e06a732",
+        "android_client_info": {
+          "package_name": "com.example.projeto3bimestre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK31Xae2EweOpA-wmcg9WqOwJPgwyDA-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
